@@ -1,0 +1,23 @@
+.popup-dialog {
+  height: 100%;
+}
+.toolbar-container {
+  min-height: 50px;
+}
+.title-container {
+  width: 100%;
+}
+.body {
+  margin: 20px;
+  height: 100%;
+}
+.fav-book-add {
+  margin-left: 20px;
+}
+.footer {
+  margin: 0 20px;
+}
+.save-button, .toolbar-container {
+  background-color: #6577b3;
+  color: white;
+}

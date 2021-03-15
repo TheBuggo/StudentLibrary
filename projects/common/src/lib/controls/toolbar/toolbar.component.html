@@ -1,0 +1,12 @@
+<mat-toolbar class="toolbar-container">
+  <button mat-icon-button fxShow="true" fxHide.gt-sm="true"
+          (click)="toggleSidenav.emit()" aria-label="Pages">
+    <mat-icon>menu</mat-icon>
+  </button>
+  <span>
+    <img [src]="logo" />
+  </span>
+  <span class="logo">
+    {{title}}
+  </span>
+</mat-toolbar>
