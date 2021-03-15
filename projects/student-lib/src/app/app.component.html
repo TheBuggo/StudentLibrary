@@ -1,0 +1,8 @@
+<div class="app-contianer">
+  <toolbar [data]="data" (toggleSideNav)="toggleSideNav()"></toolbar>
+  <mat-sidenav-container [hasBackdrop]="false">
+    <mat-sidenav #sidenav fixedTopGap="50" [mode]="'over'" [style.height]="'100%'">
+    </mat-sidenav>
+      <router-outlet></router-outlet>
+  </mat-sidenav-container>
+</div>

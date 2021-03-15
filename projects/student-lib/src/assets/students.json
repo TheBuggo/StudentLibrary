@@ -1,0 +1,128 @@
+[
+  {
+    "firstName": "steven",
+    "middleName": "steve",
+    "lastName": "stevenson",
+    "email": "steve@steve.com",
+    "favBooks": [ "the steve and the sea", "steve and the sorceror stone" ]
+  },
+  {
+    "firstName": "alex",
+    "middleName": "alex",
+    "lastName": "alexson",
+    "email": "alex@steve.com",
+    "favBooks": [ "the alex and the sea" ]
+  },
+  {
+    "firstName": "brenda",
+    "middleName": "brenda",
+    "lastName": "brendy",
+    "email": "brenda@steve.com",
+    "favBooks": [ "brenda and the sorceror stone" ]
+  },
+  {
+    "firstName": "steven",
+    "middleName": "steve",
+    "lastName": "stevenson",
+    "email": "steve@steve.com",
+    "favBooks": [ "the steve and the sea", "steve and the sorceror stone" ]
+  },
+  {
+    "firstName": "alex",
+    "middleName": "alex",
+    "lastName": "alexson",
+    "email": "alex@steve.com",
+    "favBooks": [ "the alex and the sea" ]
+  },
+  {
+    "firstName": "brenda",
+    "middleName": "brenda",
+    "lastName": "brendy",
+    "email": "brenda@steve.com",
+    "favBooks": [ "brenda and the sorceror stone" ]
+  },
+  {
+    "firstName": "steven",
+    "middleName": "steve",
+    "lastName": "stevenson",
+    "email": "steve@steve.com",
+    "favBooks": [ "the steve and the sea", "steve and the sorceror stone" ]
+  },
+  {
+    "firstName": "alex",
+    "middleName": "alex",
+    "lastName": "alexson",
+    "email": "alex@steve.com",
+    "favBooks": [ "the alex and the sea" ]
+  },
+  {
+    "firstName": "brenda",
+    "middleName": "brenda",
+    "lastName": "brendy",
+    "email": "brenda@steve.com",
+    "favBooks": [ "brenda and the sorceror stone" ]
+  },
+  {
+    "firstName": "steven",
+    "middleName": "steve",
+    "lastName": "stevenson",
+    "email": "steve@steve.com",
+    "favBooks": [ "the steve and the sea", "steve and the sorceror stone" ]
+  },
+  {
+    "firstName": "alex",
+    "middleName": "alex",
+    "lastName": "alexson",
+    "email": "alex@steve.com",
+    "favBooks": [ "the alex and the sea" ]
+  },
+  {
+    "firstName": "brenda",
+    "middleName": "brenda",
+    "lastName": "brendy",
+    "email": "brenda@steve.com",
+    "favBooks": [ "brenda and the sorceror stone" ]
+  },
+  {
+    "firstName": "steven",
+    "middleName": "steve",
+    "lastName": "stevenson",
+    "email": "steve@steve.com",
+    "favBooks": [ "the steve and the sea", "steve and the sorceror stone" ]
+  },
+  {
+    "firstName": "alex",
+    "middleName": "alex",
+    "lastName": "alexson",
+    "email": "alex@steve.com",
+    "favBooks": [ "the alex and the sea" ]
+  },
+  {
+    "firstName": "brenda",
+    "middleName": "brenda",
+    "lastName": "brendy",
+    "email": "brenda@steve.com",
+    "favBooks": [ "brenda and the sorceror stone" ]
+  },
+  {
+    "firstName": "null",
+    "middleName": "undefined",
+    "lastName": "",
+    "email": "null@null.com",
+    "favBooks": []
+  },
+  {
+    "firstName": "null",
+    "middleName": "undefined",
+    "lastName": "",
+    "email": "null@null.com",
+    "favBooks": [ "undefined" ]
+  },
+  {
+    "firstName": "null",
+    "middleName": "undefined",
+    "lastName": "",
+    "email": "null@null.com",
+    "favBooks": [ "null" ]
+  }
+]
